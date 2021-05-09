@@ -2,6 +2,11 @@ body{
     background-color: #e5e5e5 ;
 }
 
+a{
+    text-decoration: none;
+    color: #ff868e;
+}
+
 .paw{
     position: absolute;
     left: 155px;

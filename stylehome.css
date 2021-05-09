@@ -212,7 +212,7 @@ body{
     text-align: center;
     letter-spacing: 2px;
     z-index: 1;
-    color: #FF868E;
+    color: #ff868e;
 }
 
 .nad3{
@@ -243,4 +243,9 @@ body{
     letter-spacing: 2px;
 
     color: #FF868E;
+}
+
+a{
+    color: #ff868f;
+    text-decoration: none;
 }
